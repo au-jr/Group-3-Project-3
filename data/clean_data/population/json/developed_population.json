@@ -1,142 +1,142 @@
 {
  "2000":{
-  "Australia":19000000,
-  "Japan":127000000,
-  "Sweden":887000000,
-  "Switzerland":718000000,
-  "USA":282000000
+  "Australia":"19000000",
+  "Japan":"127000000",
+  "Sweden":"8870000",
+  "Switzerland":"7180000",
+  "USA":"282000000"
  },
  "2001":{
-  "Australia":192000000,
-  "Japan":127000000,
-  "Sweden":89000000,
-  "Switzerland":722000000,
-  "USA":285000000
+  "Australia":"19200000",
+  "Japan":"127000000",
+  "Sweden":"8900000",
+  "Switzerland":"7220000",
+  "USA":"285000000"
  },
  "2002":{
-  "Australia":195000000,
-  "Japan":127000000,
-  "Sweden":893000000,
-  "Switzerland":728000000,
-  "USA":288000000
+  "Australia":"19500000",
+  "Japan":"127000000",
+  "Sweden":"8930000",
+  "Switzerland":"7280000",
+  "USA":"288000000"
  },
  "2003":{
-  "Australia":197000000,
-  "Japan":128000000,
-  "Sweden":896000000,
-  "Switzerland":733000000,
-  "USA":291000000
+  "Australia":"19700000",
+  "Japan":"128000000",
+  "Sweden":"8960000",
+  "Switzerland":"7330000",
+  "USA":"291000000"
  },
  "2004":{
-  "Australia":199000000,
-  "Japan":128000000,
-  "Sweden":9000000,
-  "Switzerland":738000000,
-  "USA":294000000
+  "Australia":"19900000",
+  "Japan":"128000000",
+  "Sweden":"9000000",
+  "Switzerland":"7380000",
+  "USA":"294000000"
  },
  "2005":{
-  "Australia":202000000,
-  "Japan":128000000,
-  "Sweden":905000000,
-  "Switzerland":743000000,
-  "USA":297000000
+  "Australia":"20200000",
+  "Japan":"128000000",
+  "Sweden":"9050000",
+  "Switzerland":"7430000",
+  "USA":"297000000"
  },
  "2006":{
-  "Australia":205000000,
-  "Japan":128000000,
-  "Sweden":91000000,
-  "Switzerland":748000000,
-  "USA":300000000
+  "Australia":"20500000",
+  "Japan":"128000000",
+  "Sweden":"9100000",
+  "Switzerland":"7480000",
+  "USA":"300000000"
  },
  "2007":{
-  "Australia":208000000,
-  "Japan":128000000,
-  "Sweden":916000000,
-  "Switzerland":754000000,
-  "USA":303000000
+  "Australia":"20800000",
+  "Japan":"128000000",
+  "Sweden":"9160000",
+  "Switzerland":"7540000",
+  "USA":"303000000"
  },
  "2008":{
-  "Australia":212000000,
-  "Japan":128000000,
-  "Sweden":923000000,
-  "Switzerland":764000000,
-  "USA":306000000
+  "Australia":"21200000",
+  "Japan":"128000000",
+  "Sweden":"9230000",
+  "Switzerland":"7640000",
+  "USA":"306000000"
  },
  "2009":{
-  "Australia":217000000,
-  "Japan":128000000,
-  "Sweden":93000000,
-  "Switzerland":773000000,
-  "USA":309000000
+  "Australia":"21700000",
+  "Japan":"128000000",
+  "Sweden":"9300000",
+  "Switzerland":"7730000",
+  "USA":"309000000"
  },
  "2010":{
-  "Australia":22000000,
-  "Japan":128000000,
-  "Sweden":938000000,
-  "Switzerland":782000000,
-  "USA":311000000
+  "Australia":"22000000",
+  "Japan":"128000000",
+  "Sweden":"9380000",
+  "Switzerland":"7820000",
+  "USA":"311000000"
  },
  "2011":{
-  "Australia":224000000,
-  "Japan":128000000,
-  "Sweden":947000000,
-  "Switzerland":791000000,
-  "USA":314000000
+  "Australia":"22400000",
+  "Japan":"128000000",
+  "Sweden":"9470000",
+  "Switzerland":"7910000",
+  "USA":"314000000"
  },
  "2012":{
-  "Australia":227000000,
-  "Japan":128000000,
-  "Sweden":956000000,
-  "Switzerland":8000000,
-  "USA":317000000
+  "Australia":"22700000",
+  "Japan":"128000000",
+  "Sweden":"9560000",
+  "Switzerland":"8000000",
+  "USA":"317000000"
  },
  "2013":{
-  "Australia":231000000,
-  "Japan":128000000,
-  "Sweden":965000000,
-  "Switzerland":809000000,
-  "USA":319000000
+  "Australia":"23100000",
+  "Japan":"128000000",
+  "Sweden":"9650000",
+  "Switzerland":"8090000",
+  "USA":"319000000"
  },
  "2014":{
-  "Australia":235000000,
-  "Japan":127000000,
-  "Sweden":975000000,
-  "Switzerland":819000000,
-  "USA":322000000
+  "Australia":"23500000",
+  "Japan":"127000000",
+  "Sweden":"9750000",
+  "Switzerland":"8190000",
+  "USA":"322000000"
  },
  "2015":{
-  "Australia":238000000,
-  "Japan":127000000,
-  "Sweden":985000000,
-  "Switzerland":828000000,
-  "USA":325000000
+  "Australia":"23800000",
+  "Japan":"127000000",
+  "Sweden":"9850000",
+  "Switzerland":"8280000",
+  "USA":"325000000"
  },
  "2016":{
-  "Australia":242000000,
-  "Japan":127000000,
-  "Sweden":995000000,
-  "Switzerland":837000000,
-  "USA":327000000
+  "Australia":"24200000",
+  "Japan":"127000000",
+  "Sweden":"9950000",
+  "Switzerland":"8370000",
+  "USA":"327000000"
  },
  "2017":{
-  "Australia":246000000,
-  "Japan":127000000,
-  "Sweden":101000000,
-  "Switzerland":845000000,
-  "USA":330000000
+  "Australia":"24600000",
+  "Japan":"127000000",
+  "Sweden":"10100000",
+  "Switzerland":"8450000",
+  "USA":"330000000"
  },
  "2018":{
-  "Australia":25000000,
-  "Japan":126000000,
-  "Sweden":102000000,
-  "Switzerland":851000000,
-  "USA":332000000
+  "Australia":"25000000",
+  "Japan":"126000000",
+  "Sweden":"10200000",
+  "Switzerland":"8510000",
+  "USA":"332000000"
  },
  "2019":{
-  "Australia":254000000,
-  "Japan":126000000,
-  "Sweden":103000000,
-  "Switzerland":858000000,
-  "USA":334000000
+  "Australia":"25400000",
+  "Japan":"126000000",
+  "Sweden":"10300000",
+  "Switzerland":"8580000",
+  "USA":"334000000"
  }
 }
