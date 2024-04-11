@@ -1,0 +1,142 @@
+{
+ "2000":{
+  "Brazil":347.0,
+  "Egypt":136.0,
+  "Greece":104.0,
+  "India":901.0,
+  "South Africa":273.0
+ },
+ "2001":{
+  "Brazil":340.0,
+  "Egypt":120.0,
+  "Greece":106.0,
+  "India":908.0,
+  "South Africa":259.0
+ },
+ "2002":{
+  "Brazil":329.0,
+  "Egypt":120.0,
+  "Greece":109.0,
+  "India":923.0,
+  "South Africa":241.0
+ },
+ "2003":{
+  "Brazil":"322",
+  "Egypt":"134",
+  "Greece":"96.6",
+  "India":"976",
+  "South Africa":"265"
+ },
+ "2004":{
+  "Brazil":"334",
+  "Egypt":"130",
+  "Greece":"93.2",
+  "India":"1030",
+  "South Africa":"308"
+ },
+ "2005":{
+  "Brazil":"348",
+  "Egypt":"147",
+  "Greece":"92.9",
+  "India":"1090",
+  "South Africa":"286"
+ },
+ "2006":{
+  "Brazil":"357",
+  "Egypt":"156",
+  "Greece":"95.4",
+  "India":"1150",
+  "South Africa":"319"
+ },
+ "2007":{
+  "Brazil":392.0,
+  "Egypt":170.0,
+  "Greece":96.5,
+  "India":1260.0,
+  "South Africa":325.0
+ },
+ "2008":{
+  "Brazil":442.0,
+  "Egypt":180.0,
+  "Greece":96.7,
+  "India":1350.0,
+  "South Africa":323.0
+ },
+ "2009":{
+  "Brazil":412.0,
+  "Egypt":196.0,
+  "Greece":106.0,
+  "India":1520.0,
+  "South Africa":331.0
+ },
+ "2010":{
+  "Brazil":484.0,
+  "Egypt":200.0,
+  "Greece":91.6,
+  "India":1570.0,
+  "South Africa":321.0
+ },
+ "2011":{
+  "Brazil":"518",
+  "Egypt":"210",
+  "Greece":"82.1",
+  "India":"1630",
+  "South Africa":"318"
+ },
+ "2012":{
+  "Brazil":"552",
+  "Egypt":"220",
+  "Greece":"74.8",
+  "India":"1810",
+  "South Africa":"340"
+ },
+ "2013":{
+  "Brazil":"589",
+  "Egypt":"213",
+  "Greece":"63.6",
+  "India":"1810",
+  "South Africa":"334"
+ },
+ "2014":{
+  "Brazil":610.0,
+  "Egypt":239.0,
+  "Greece":60.1,
+  "India":1980.0,
+  "South Africa":334.0
+ },
+ "2015":{
+  "Brazil":546.0,
+  "Egypt":246.0,
+  "Greece":56.3,
+  "India":2110.0,
+  "South Africa":322.0
+ },
+ "2016":{
+  "Brazil":485.0,
+  "Egypt":259.0,
+  "Greece":57.5,
+  "India":2200.0,
+  "South Africa":320.0
+ },
+ "2017":{
+  "Brazil":496.0,
+  "Egypt":254.0,
+  "Greece":57.4,
+  "India":2280.0,
+  "South Africa":314.0
+ },
+ "2018":{
+  "Brazil":475.0,
+  "Egypt":241.0,
+  "Greece":58.4,
+  "India":2420.0,
+  "South Africa":311.0
+ },
+ "2019":{
+  "Brazil":475.0,
+  "Egypt":252.0,
+  "Greece":52.9,
+  "India":2450.0,
+  "South Africa":330.0
+ }
+}
