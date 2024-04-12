@@ -1,5 +1,38 @@
+drop table classification cascade;
+drop table countries cascade;
+drop table countryclass cascade;
+drop table countryid cascade;
+drop table population cascade;
+drop table avginc cascade;
+drop table gdpUSD cascade;
+drop table co2total cascade;
+drop table co2percap cascade;
+
+create table classification(
+	classification_id int primary key,
+	classification_label varchar(15) NOT NULL
+);
+
+create table countries(
+	country varchar(50) primary key
+);
+
+create table countryid(
+	country_id serial primary key,
+	country varchar(50) NOT NULL,
+	foreign key (country) references countries(country)
+);
+
+create table countryclass(
+	country_id int,
+	foreign key (country_id) references countryid(country_id),
+	classification_id int NOT NULL,
+	foreign key (classification_id) references classification(classification_id)
+);
+
 create table population(
-	country varchar(50) primary key,
+	country varchar(50) NOT NULL,
+	foreign key (country) references countries(country),
 	population_2000 bigint NOT NULL,
 	population_2001 bigint NOT NULL,
 	population_2002 bigint NOT NULL,
@@ -22,9 +55,9 @@ create table population(
 	population_2019 bigint NOT NULL
 );
 
-create table average_daily_income(
+create table avginc(
 	country varchar(50) NOT NULL,
-	foreign key (country) references population(country),
+	foreign key (country) references countries(country),
 	daily_income_2000 decimal NOT NULL,
 	daily_income_2001 decimal NOT NULL,
 	daily_income_2002 decimal NOT NULL,
@@ -49,7 +82,7 @@ create table average_daily_income(
 
 create table gdpUSD(
 	country varchar(50) NOT NULL,
-	foreign key (country) references population(country),
+	foreign key (country) references countries(country),
 	gdp_2000 bigint NOT NULL,
 	gdp_2001 bigint NOT NULL,
 	gdp_2002 bigint NOT NULL,
@@ -72,9 +105,9 @@ create table gdpUSD(
 	gdp_2019 bigint NOT NULL
 );
 
-create table co2_emissions_total_million_tonnes (
+create table co2total (
 	country varchar(50) NOT NULL,
-	foreign key (country) references population(country),
+	foreign key (country) references countries(country),
 	co2_mnt_2000 decimal NOT NULL,
 	co2_mnt_2001 decimal NOT NULL,
 	co2_mnt_2002 decimal NOT NULL,
@@ -97,9 +130,9 @@ create table co2_emissions_total_million_tonnes (
 	co2_mnt_2019 decimal NOT NULL	
 );
 
-create table co2_emissions_per_capita_tonnes (
+create table co2percap (
 	country varchar(50) NOT NULL,
-	foreign key (country) references population(country),
+	foreign key (country) references countries(country),
 	co2_pc_tns_2000 decimal NOT NULL,
 	co2_pc_tns_2001 decimal  NOT NULL,
 	co2_pc_tns_2002 decimal NOT NULL,
