@@ -5,6 +5,28 @@
   <meta charset="UTF-8">
   <link rel="stylesheet" href="../Style/style.css">
   <title>First World vs Third World CO2 Emissions </title>
+   <!-- Leaflet JavaScript code-->
+   <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"
+   integrity="sha256-20nQCchB9co0qIjJZRGuk2/Z9VM+kNiyxNV1lvTlZBo="
+  crossorigin=""></script>
+
+  <!-- D3 library -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  <!-- Leaflet CSS -->
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css"
+   integrity="sha256-p4NxAoJBhIIN+hmNHrzRCf9tD/miZyoHS5obTRR9BMY="
+  crossorigin=""/>
+
+  <!-- leaflet-choropleth JavaScript -->
+  <script type="text/javascript" src="choropleth.js"></script>
+
+  <!-- Our CSS -->
+  <link rel="stylesheet" type="text/css" href="../style.css">
+
+  <style>
+      #map { height: 600px; width: 850px; }
+  </style>
 </head>
 
 <body>
@@ -15,7 +37,39 @@
   <a href="Web_Vis_DA.HTML">Data Visualisations / Data Tables</a>
 </div>
 
+<div id ='controls'>
+  <select id="yearSelector">
+      <option value="">Select a Year</option>
+      <option value="2000">2000</option>
+      <option value="2001">2001</option>
+      <option value="2003">2003</option>
+      <option value="2004">2004</option>
+      <option value="2005">2005</option>
+      <option value="2006">2006</option>
+      <option value="2007">2007</option>
+      <option value="2008">2008</option>
+      <option value="2009">2009</option>
+      <option value="2010">2010</option>
+      <option value="2011">2011</option>
+      <option value="2012">2012</option>
+      <option value="2013">2013</option>
+      <option value="2014">2014</option>
+      <option value="2015">2015</option>
+      <option value="2016">2016</option>
+      <option value="2017">2017</option>
+      <option value="2018">2018</option>
+      <option value="2019">2019</option>
+  <!-- Populate years using JavaScript -->
+ </select>
+</div>
+
   <h1>Interactive Map</h1>
+  
+<!-- The div where we'll insert our map -->
+<div id="map"></div>
+
+<!-- Our JavaScript -->
+<script type="text/javascript" src="../map.js"></script>
     
 
 </body>
