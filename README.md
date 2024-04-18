@@ -1,7 +1,49 @@
 # Group-3-Project-3
 Group 3 Project 3 - Huang, Potter, Bhardwaj, Robertson
 
-## Getting Started
+## Analysis
+
+The inention of this project was to take CO2 emissions data and measure it against certain economic markers to generate a snapshot of a countries environmental impact vs economic efficiency for first two decades at the turn of the millenium. 
+
+Data was accessed from Gapminder, a publicly available database of information containing historic and projected social, economic & environmental datasets. A sample of 15 countries were selected to create a global summary. Groups of five countries were selected to represent a selection from three distinct market classifications:
+
+- Developed
+  - Australia
+  - USA
+  - Sweden
+  - Switzerland
+  - Japan
+  - 
+- Underdeveloped
+  - Brazil
+  - Egypt
+  - Greece
+  - India
+  - South Africa
+  
+- Developing
+  - Bangladesh
+  - Afghanistan
+  - Cambodia
+  - Senegal
+  - Ethiopia
+
+We analysed 2 emissions data metrics:
+
+- ### Annual CO2 Emissions Total
+  !['20 year total Emissions']()
+- ### Annual CO2 Emissions Per Capita
+  !['20 year Emissions per Capita']()
+
+And 3 economic markers:
+- ### Population
+  !['20 year Population']()
+- ### Average Daily income
+  !['20 year Average Daily Income']()
+- ### Country GDP
+  !['20 year GDP']()
+
+The data was
 
 ## Ethical Considerations
 
