@@ -30,18 +30,22 @@ Data was accessed from Gapminder, a publicly available database of information c
 
 We analysed 2 emissions data metrics:
 
-- ### Annual CO2 Emissions Total
-  !['20 year total Emissions']()
-- ### Annual CO2 Emissions Per Capita
-  !['20 year Emissions per Capita']()
+  #### Annual CO2 Emissions Total (Millions of Tonnes)
+![20_year_total_Emissions](Clean_Data_Visualisation/Cleaned_Data/Tonnes_Per_Millions.png)
+
+  #### Annual CO2 Emissions Per Capita (Tonnes)
+![20_year_Emissions_per_Capita](Clean_Data_Visualisation/Analysis_Visuals/Carbon_Emissions_per_Capita.png)
 
 And 3 economic markers:
-- ### Population
-  !['20 year Population']()
-- ### Average Daily income
-  !['20 year Average Daily Income']()
-- ### Country GDP
-  !['20 year GDP']()
+
+  #### Population
+  !['20 year Population'](Clean_Data_Visualisation/Cleaned_Data/Population_table.png )
+
+  #### Average Daily income ($USD)
+  !['20 year Average Daily Income'](Clean_Data_Visualisation/Cleaned_Data/Average_Income.png)
+
+  #### Country GDP (Millions of $USD)
+  !['20 year GDP'](Clean_Data_Visualisation/Cleaned_Data/Average_Income.png)
 
 The data was
 
