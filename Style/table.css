@@ -1,0 +1,29 @@
+table {
+  font-family:  Helvetica;
+  border-collapse: collapse;
+  width: 40%;
+}
+
+table td, #table th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+tr:nth-child(even){background-color: #f2f2f2;}
+
+th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #152c44;
+  color: white;
+}
+
+table th#Developed {background-color:rgb(82, 183, 82); color:white;
+}
+
+table th#Developing {background-color:rgb(246, 211, 54); color:white;
+}
+
+table th#Under-Developed {background-color:rgb(255, 150, 58); color:white;
+}

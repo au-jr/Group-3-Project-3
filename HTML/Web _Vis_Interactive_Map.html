@@ -25,18 +25,22 @@
   <link rel="stylesheet" type="text/css" href="../style.css">
 
   <style>
-      #map { height: 600px; width: 850px; }
+      #map { height: 650px; width: 97.5%; }
   </style>
 </head>
 
 <body>
   <div class="topnav">
   <a  href="Web_Vis_Home_P.HTML">Home</a>
-  <a href="#news">About</a>
-  <a class="active" href="Web _Vis_Interactive_Map.html">Global Interactive Map</a>
+  <a class="active" href="Web _Vis_Interactive_Map.html">Interactive Global Map</a>
   <a href="Web_Vis_DA.HTML">Data Visualisations / Data Tables</a>
+  <a href="Web_Vis_Analysis.HTML">Data Analysis and Insights</a>
 </div>
 
+<div style="padding-left:16px">
+<h1>Interactive Global Map</h1>
+
+<div style="padding-left:16px">
 <div id ='controls'>
   <select id="yearSelector">
       <option value="">Select a Year</option>
@@ -62,8 +66,6 @@
   <!-- Populate years using JavaScript -->
  </select>
 </div>
-
-  <h1>Interactive Map</h1>
   
 <!-- The div where we'll insert our map -->
 <div id="map"></div>
