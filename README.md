@@ -17,7 +17,7 @@ In this project we explored free, publicly available country data for emissions,
 
 The purpose for colecting, analysing and visualising the information was to investigate countries classified as developed, developing or underveloped and generate a preview of their CO2 emissions against economic markers. This preview would give us insight into the economic efficiency vs environmental impact and the carbon intensity of each country relative to GDP of each classification. 
 
-The risk you run with presenting data in this manner is that that out of context conclusions could be drawn. A countries relationship between it's economic output and emissions levels are open to so many other contributing factors that it would be impossible to draw any real meanngful conclusion to infulence decision making. One reliable metric which could be gathered from this data are countries which would benefit from foreign investment into greener manufacturing and production projects or countries. This could improve domestic econimic measures and assist in reducing the growth in CO2 emissions moving forward.s
+The risk you run with presenting data in this manner is that that out of context conclusions could be drawn. A countries relationship between it's economic output and emissions levels are open to so many other contributing factors that it would be impossible to draw any real meanngful conclusion to infulence decision making. One reliable metric which could be gathered from this data are countries which would benefit from foreign investment into greener manufacturing and production projects or countries. This could improve domestic econimic measures and assist in reducing the growth in CO2 emissions moving forward.
 
 ## References
 
@@ -28,3 +28,6 @@ The risk you run with presenting data in this manner is that that out of context
 - *Natural Earth   &raquo; 1:10m Cultural Vectors - Free vector and raster map data at 1:10m, 1:50m, and 1:110m scales*, 2009 - 2024. Natural Earth https://www.naturalearthdata.com/downloads/10m-cultural-vectors/
 - Gillies S *shapely.MultiPolygon &#8212; Shapely 2.1.0.dev0 documentation*, Shapely https://shapely.readthedocs.io/en/latest/reference/shapely.MultiPolygon.html
 - GeoPandas developers *User Guide*, GeoPandas 2013–2022 https://geopandas.org/en/stable/docs/user_guide.html
+- *Human Development Index (HDI),© 2024* United Nations Development Programme - https://hdr.undp.org/data-center/human-development-index#/indicies/HDI
+- *Top 25 Developed and Developing Countries, December 17, 2023* - https://www.investopedia.com/updates/top-developing-countries/
+- *Ethiopia Looks to Tap Its Massive Renewable Energy Potential, Feb 18, 2024* - https://oilprice.com/Alternative-Energy/Renewable-Energy/Ethiopia-Looks-to-Tap-Its-Massive-Renewable-Energy-Potential
